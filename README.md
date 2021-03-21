@@ -1,2 +1,2 @@
-# Angular-test YES a tam
+# Angular-test YES a tams sa 
 #npm start i co jeszcze
