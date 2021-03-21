@@ -1,2 +1,2 @@
 # Angular-test YES a teraz
-#npm start
+#npm start i co jeszcze
